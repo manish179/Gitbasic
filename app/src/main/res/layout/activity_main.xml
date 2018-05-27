@@ -9,7 +9,12 @@
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
       android:text="view"/>
-
+ <Button
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="go"
+     android:layout_gravity="center"
+     android:id="@+id/btngo"/>
 
 
 </LinearLayout>
