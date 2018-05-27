@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(MainActivity.this,"master ko toast",Toast.LENGTH_LONG).show();
 
 
+        Intent i=new Intent(MainActivity.this,Signup.class);
+        startActivity(i);
 
 
     }
