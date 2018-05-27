@@ -15,7 +15,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast.makeText(MainActivity.this,"user created",Toast.LENGTH_LONG).show();
-        Toast.makeText(MainActivity.this,"sigin gara",Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this,"master ko toast",Toast.LENGTH_LONG).show();
+
 
 
 
